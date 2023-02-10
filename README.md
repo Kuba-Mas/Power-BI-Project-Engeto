@@ -1,5 +1,5 @@
 # Power-BI-Project-Engeto
-Power BI projekt v rámci Datové akademie 
+Power BI projekt v rámci Datové akademie (Na Discordu jsem "Jakub M.")
 
 Pro Power BI projekt jsem využil datasety připravené od Engeta. Konkrétně jsem využil tyto: life_expectancy, demographic, economies, countries, religions.
 V projektu porovnávám vybraná data, která se týkají České republiky a jejích sousedních států. Pro potřeby projektu jsem si datasety upravil v rámci transformace dat.
